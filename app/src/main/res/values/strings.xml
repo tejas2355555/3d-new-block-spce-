@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Block Space 3D</string>
+    <string name="loading_universe">Building your voxel universe…</string>
+    <string name="loading_subtitle">Loading 3D world engine &amp; planets</string>
+    <string name="offline_title">3D Engine Needs Internet</string>
+    <string name="offline_message">Block Space 3D loads its Three.js 3D graphics engine on startup. Check your connection and tap Retry.</string>
+    <string name="retry">Retry</string>
+    <string name="device_options">Android Options</string>
+    <string name="haptics_label">Tactile Haptics</string>
+    <string name="haptics_desc">Subtle vibration when mining, placing, and flying</string>
+    <string name="landscape_lock_label">Lock Landscape</string>
+    <string name="landscape_lock_desc">Keep screen sideways for dual-stick controls</string>
+    <string name="immersive_label">Immersive Fullscreen</string>
+    <string name="immersive_desc">Hide Android status and navigation bars</string>
+    <string name="backup_section">World Backups</string>
+    <string name="export_worlds">Export Worlds (.json)</string>
+    <string name="import_worlds">Import Worlds (.json)</string>
+    <string name="exit_title">Leave Block Space 3D?</string>
+    <string name="exit_message">Your worlds are saved automatically on this device.</string>
+    <string name="stay">Keep Playing</string>
+    <string name="exit_app">Exit</string>
+    <string name="close">Close</string>
+</resources>

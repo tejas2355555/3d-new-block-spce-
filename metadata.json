@@ -1,0 +1,6 @@
+{
+  "name": "Block Space 3D",
+  "description": "Build, mine, tame animals, ride dragons, and fly across 13 planets in a 3D voxel sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
